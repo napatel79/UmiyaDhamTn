@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.6050de50.js";import{G as a,H as r}from"./index.c3558c5e.js";import"./render.23090be3.js";const p=Object.assign({name:"IndexPage"},{__name:"IndexPage",setup(t){return(s,c)=>(a(),r(e,{class:"flex flex-center"}))}});export{p as default};

@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage.6050de50.js";import{G as e,H as a,I as s,K as c}from"./index.c3558c5e.js";import"./render.23090be3.js";const o=c("div",null,"contact us",-1),p=Object.assign({name:"ContactUs"},{__name:"ContactUs",setup(n){return(r,_)=>(e(),a(t,{class:"flex flex-center"},{default:s(()=>[o]),_:1}))}});export{p as default};

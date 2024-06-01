@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.6050de50.js";import{G as t,H as a,I as o,K as s}from"./index.c3558c5e.js";import"./render.23090be3.js";const c=s("div",null,"committe",-1),p=Object.assign({name:"CommitteePage"},{__name:"Committee",setup(m){return(r,i)=>(t(),a(e,{class:"flex flex-center"},{default:o(()=>[c]),_:1}))}});export{p as default};
